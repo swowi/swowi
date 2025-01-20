@@ -1,4 +1,4 @@
-# 👋
+# 👋  ![Visitor Count](https://profile-counter.glitch.me/swowi/count.svg)
 
 ## Web Developer & Designer | Partly Backend Developer
 
